@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Hola mundo");
         System.out.println("Como estan?");
         System.out.println("PODER");
+
+        Alumno a1=new Alumno ("Arturo", "Céspedes");
     }
 }
